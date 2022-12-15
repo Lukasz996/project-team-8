@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/layout/_products.scss"],"names":[],"mappings":"AAAA,kBACI","file":"src.6ef33ab4.css","sourceRoot":"../src","sourcesContent":[".products__header{\n    text-transform: uppercase;\n}"]}
