@@ -1,0 +1,27 @@
+.header {
+  background-color: var(--pink-color);
+
+  &__container {
+    width: 100vw;
+    height: 502px;
+    padding: 0px 20px;
+    margin: 0 auto;
+    position: relative;
+
+    @media screen and (min-width: 480px) {
+      width: 480px;
+    }
+
+    @media screen and (min-width: 768px) {
+      height: 399px;
+      width: 768px;
+      padding: 0px 34px;
+    }
+
+    @media screen and (min-width: 1200px) {
+      height: 665px;
+      width: 1200px;
+      padding: 0px 75px;
+    }
+  }
+}
